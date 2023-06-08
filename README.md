@@ -1,2 +1,2 @@
-# SberTestTask2
-![image](https://github.com/BigMaestrov/SberTestTask2/assets/89010195/f0918251-fc7c-43be-bd9a-976cd8149baf)
+# SberTestTask3
+![image](https://github.com/BigMaestrov/SberTestTask3/assets/89010195/72a87049-f263-4ba5-a773-a830ed969a03)
